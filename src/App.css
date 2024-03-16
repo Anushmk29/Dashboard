@@ -14,7 +14,7 @@
 .App{
   background: rgb(255,207,209);
 background: linear-gradient(90deg, rgba(255,207,209,1) 11%, rgba(255,225,188,1) 57%, rgba(242,177,239,1) 100%);
-  font-family:'Inter',serif ;
+  font-family:'Inter',sans-serif ;
   height: 97vh;
   display: flex;
   justify-content: center;
@@ -28,5 +28,5 @@ background: linear-gradient(90deg, rgba(255,207,209,1) 11%, rgba(255,225,188,1) 
   border-radius: 2rem;
 background-color: var(--glass);
 overflow: hidden;
-grid-template-columns: 10rem auto 20rem;
+grid-template-columns: 11rem auto 20rem;
 }
